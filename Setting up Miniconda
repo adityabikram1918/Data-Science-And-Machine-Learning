@@ -1,0 +1,6 @@
+Install Miniconda.
+Open Miniconda Terminal
+Create a project folder and within it create conda env with necessary packages.
+Command to create an env with necessary packages: conda create --prefix ./env pandas jupyter matplotlib numpy scikit-learn
+To activate the environment : conda activate <location>/env 
+To list the environments in your computer: conda env list
